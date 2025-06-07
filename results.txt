@@ -1,0 +1,40 @@
+===========================
+US Unemployment Analysis
+===========================
+
+1. Answers to Business Questions
+
+• What was the unemployment rate during major economic events?
+  - 2008 Financial Crisis Peak: 10.0% in October 2009
+  - COVID-19 Pandemic Peak: 14.8% in April 2020
+
+• Which decade had the most stable unemployment rates?
+  - The 1990s had the lowest standard deviation: 1.05%
+
+• What’s the trend in unemployment over the last 10 years?
+  - Steady decline from 2016 to 2019, spike in 2020 due to COVID-19, then gradual stabilization around 4% through 2025.
+
+2. Key Statistics Calculated
+
+• Overall Average Unemployment Rate: 5.68%
+• Minimum Unemployment Rate: 2.5% in May 1953
+• Maximum Unemployment Rate: 14.8% in April 2020
+• Highest Average Annual Unemployment: 9.71% in 1982
+• Average by Decade:
+  - 1950s: 4.51%
+  - 1960s: 4.78%
+  - 1970s: 6.22%
+  - 1980s: 7.27%
+  - 1990s: 5.76%
+  - 2000s: 5.54%
+  - 2010s: 6.22%
+  - 2020s: 4.90%
+
+3. Business Interpretation
+
+Understanding unemployment trends helps businesses with:
+- **Workforce Planning**: High unemployment may increase talent availability.
+- **Market Demand Forecasting**: Rising unemployment can signal reduced consumer spending.
+- **Investment Timing**: Economic stability inferred from low unemployment supports expansion decisions.
+- **Risk Assessment**: Spikes like in 2020 indicate macroeconomic disruptions requiring contingency planning.
+
